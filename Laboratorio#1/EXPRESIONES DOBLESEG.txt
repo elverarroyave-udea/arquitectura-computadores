@@ -1,5 +1,0 @@
-A=W’X’Z’+W’Y+W’XZ+WX’Y’		B=W’X’+W’Y’Z’+X’Y’+W’YZ	      C=X’Y’+W’Z+W’X
-
-D=X’Y’Z’+W’X’Y+W’YZ’+W’XY’Z	E=X’Y’Z’+W’YZ’	F=W’Y’Z’+W’XY’+W’XZ’+WX’Y’
-
-G=W’X’Y+W’XY’+W’XZ’+WX’Y’+WX’Z’
